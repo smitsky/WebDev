@@ -9,6 +9,13 @@ h1 {
 	font-size: 5.0em;
 }
 
+h3 {
+	font-family: 'Cabin', sans-serif;
+	width: 50%;
+	margin: 0 auto 0 auto;
+	font-size: 3.0em;
+}
+
 body {
 	font-size: 10px;
 }
