@@ -1,0 +1,44 @@
+h1 {
+	font-size: 40px;
+	width: 50%;
+	margin: 0 auto;
+	padding-left: 300px;
+}
+
+table {
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+}
+
+#middle {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+
+#left {
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+
+#right {
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+
+#middleright {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+#middleleft {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
