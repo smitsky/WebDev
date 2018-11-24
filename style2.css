@@ -1,8 +1,5 @@
 h1 {
-	font-size: 40px;
-	width: 50%;
-	margin: 0 auto;
-	padding-left: 450px;
+	text-align: center;
 }
 
 table {
@@ -16,29 +13,13 @@ td {
 	width: 100px;
 }
 
-#middle {
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
-    border-right: 2px solid black;
-	border-left: 2px solid black;
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
 }
 
-#left {
-	border-right: 2px solid black;
-	border-left: 2px solid black;
-}
-
-#right {
-	border-right: 2px solid black;
-	border-left: 2px solid black;
-}
-
-#middleright {
-	border-top: 2px solid black;
-	border-bottom: 2px solid black;
-}
-
-#middleleft {
-	border-top: 2px solid black;
-	border-bottom: 2px solid black;
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
