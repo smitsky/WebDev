@@ -4,6 +4,7 @@ p {
 
 h1 {
 	font-family: 'Cabin', sans-serif;
+	margin: 0 auto 0 auto;
 }
 
 body {
@@ -18,7 +19,7 @@ h1 {
 
 p {
 	font-weight: 800;
-	font-size: 15px;
+	font-size: 25px;
 }
 
 span {
