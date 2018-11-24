@@ -4,17 +4,13 @@ p {
 
 h1 {
 	font-family: 'Cabin', sans-serif;
+	width: 50%;
 	margin: 0 auto 0 auto;
+	font-size: 5.0em;
 }
 
 body {
 	font-size: 10px;
-}
-
-
-
-h1 {
-	font-size: 5.0em;
 }
 
 p {
