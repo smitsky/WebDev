@@ -1,0 +1,68 @@
+body {
+	border: 20px solid #BDC3C7;
+	font-family: 'Source Sans Pro';
+	width: 80%;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 700px;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 2.0rem;
+}
+
+img {
+	width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+hr {
+	margin-top: 20px;
+	overflow: visible; 
+	/* For IE */ 
+	padding: 0; 
+	border: none; 
+	border-top: medium double #BDC3C7; 
+	color: #BDC3C7; 
+	text-align: center;
+}
+
+hr:after {
+	content: "§"; 
+	display: inline-block; 
+	position: relative; 
+	top: -0.7em; 
+	font-size: 1.5em; 
+	padding: 0 0.25em; 
+	background: white;
+}
+
+.Profiles {
+	text-transform: uppercase;
+	color: #3498DB;
+	letter-spacing: 0.2rem;
+	font-weight: 700;
+	font-size: 1.2rem;
+	margin: auto;
+}
+
+.title {
+	/*color: #3498DB;*/
+	font-size: 3.5em;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.subtitle {
+	border-left: 8px solid #3498DB;
+	padding-left: 13px;
+	font-size: 2.7rem;
+}
+
+.quote {
+	font-weight: 600;
+	font-style: italic;
+	font-size: 2.5em;
+}
